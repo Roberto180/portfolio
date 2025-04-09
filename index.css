@@ -31,7 +31,7 @@ a {
 }
     /* arruma o fundo da minha foto*/
 .fundo {
-    background-image: url(../image/fundo.webp);
+    background-image: url(fundo.webp);
     background-size: cover;
     background-position: center;
     display: flex;
