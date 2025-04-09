@@ -109,25 +109,3 @@ nav a:hover {
 footer p:hover {
     color: #012030;
 }
-    /* colocar limite de pixels para celular */
-@media screen and (max-width: 768px) {
-    .fundo img {
-        height: 300px;
-        margin-left: 0;
-    }
-    .perfil {
-        max-height: 150px;
-        max-width: 150px;
-        bottom: 5vw;
-        transform: translateX(100%);
-    }
-    .description {
-        padding: 20px;
-    }
-    .description p {
-        font-size: 16px;
-    }
-    .final {
-        font-size: 16px;
-    }
-}
