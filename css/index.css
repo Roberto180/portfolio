@@ -1,12 +1,10 @@
     /* fundo do site */
 body {
-    display: flex;
     margin-left: 3rem;
     margin-right: 3rem;
     color: #13678a;
     background-color: #012030;
     font-family: Arial, Helvetica, sans-serif;
-    justify-content: center;
     text-align: center;
 }
     /* fundo do conteiner */
