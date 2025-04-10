@@ -34,9 +34,9 @@ a {
     border: solid #9AEBA390 5px;
     border-radius: 10px;
     color: #9AEBA390;
+    transform: translateY(-100px);
 }
 .final {
     display: flex;
     justify-content:center;
-    transform: translateY(-100px);
 }    
