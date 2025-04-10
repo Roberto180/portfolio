@@ -16,4 +16,4 @@
 
 #### Status ✍
 
-- Em desenvolvimento
+- Em desenvolvimento e em breve Python e SQL...
