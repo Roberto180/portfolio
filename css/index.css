@@ -110,7 +110,12 @@ footer p:hover {
     color: #012030;
 }
     /* colocar limite de pixels para celular */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 850px) {
+    body {
+        display: flex;
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
     .fundo img {
         height: 300px;
         margin-left: 0;
