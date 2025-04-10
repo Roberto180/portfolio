@@ -32,7 +32,6 @@ a {
     background-image: url(../image/fundo.webp);
     background-size: cover;
     background-position: center;
-    display: flex;
     border-radius: 15px;
     padding: 40px 30rem;
     border: solid 5px #9AEBA3;
