@@ -110,7 +110,7 @@ footer p:hover {
 @media screen and (max-width: 850px) {
     body {
         display: flex;
-        margin-left: 3rem;
+        margin-left: 20rem;
         margin-right: 3rem;
         align-items: center;
         flex-direction: column;
