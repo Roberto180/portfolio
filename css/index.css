@@ -114,6 +114,7 @@ footer p:hover {
         margin-right: 3rem;
         align-items: center;
         flex-direction: column;
+        transform: translateX(100%);
     }
     .fundo img {
         height: 250px;
