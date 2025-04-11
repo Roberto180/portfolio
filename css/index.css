@@ -123,8 +123,8 @@ footer p:hover {
         margin-right: 0px;
     }
     .perfil {
-        max-height: 150px;
-        max-width: 150px;
+        max-height: 150vw;
+        max-width: 150vw;
         bottom: 5vw;
         transform: translateX(100%);
     }
@@ -138,7 +138,5 @@ footer p:hover {
     }
     .final {
         font-size: 16px;
-        margin-left: 0px;
-        margin-right: 0px;
     }
 }
