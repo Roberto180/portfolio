@@ -33,7 +33,7 @@ a {
     background-size: cover;
     background-position: center;
     border-radius: 15px;
-    padding: 40px 30rem;
+    padding: 40px 20rem;
     border: solid 5px #9AEBA3;
     
 }   
@@ -116,8 +116,9 @@ footer p:hover {
         flex-direction: column;
     }
     .fundo img {
-        height: 300px;
-        margin-left: 0;
+        height: 250px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     .perfil {
         max-height: 150px;
@@ -127,11 +128,15 @@ footer p:hover {
     }
     .description {
         padding: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
     .description p {
         font-size: 16px;
     }
     .final {
         font-size: 16px;
+        margin-left: 0px;
+        margin-right: 0px;
     }
 }
